@@ -1,6 +1,6 @@
-from app import app
+# from app impor app
 
-app.run()
+# app.run()
 
 # Missing the expected app object or run() function
 def hello():
